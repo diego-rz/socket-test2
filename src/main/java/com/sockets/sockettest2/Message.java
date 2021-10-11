@@ -1,5 +1,5 @@
 package com.sockets.sockettest2;
-
+// Comentario de prueba: clase mensaje
 public class Message {
   private String from;
   private String text;
